@@ -5,6 +5,7 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
 **MOCK_UP SCREEN**
 
 ![Main_Screen](https://user-images.githubusercontent.com/72499366/125077145-65c98800-e0de-11eb-8050-17c0649790b1.png)
